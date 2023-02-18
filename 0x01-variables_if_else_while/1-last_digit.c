@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - last digit
  * Return: Always 0
@@ -15,7 +16,7 @@ int main(void)
 
 	if (a > 5)
 	{
-		printf"the last digit of %d and its greater than 5\n", n, a);
+		printf("the last digit of %d and its greater than 5\n", n, a);
 	}
 	else if (a == 0)
 	{
