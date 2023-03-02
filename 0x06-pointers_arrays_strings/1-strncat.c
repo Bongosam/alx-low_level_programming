@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncat - concatenates two strings using at most an imputted number of bytes from src.
+ * _strncat - concatenates two strings using at most an imputted number.
  * @dest: te string to be appended upon.
  * @src: the string to be appende to dest
  * @n: the number of bytes from the src to be appended to dest
